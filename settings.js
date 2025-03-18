@@ -3,7 +3,7 @@ const settings = {
   author: 'Bot',
   botName: "biscotto Bot",
   botOwner: 'cristian', // Your name
-  ownerNumber: '+639654978027', //Your number
+  ownerNumber: '+399510030546', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
